@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,JavaScript ,React JS, Bootsrap,Nodejs, Expressjs,MongoDb,**
 
-- 📫 How to reach me **zaryabz043@gmail.com**
+- 📫 How to reach me **zaryab001.pk@gmail.com**
 
 - ⚡ Fun fact **I think i am Funny**
 
