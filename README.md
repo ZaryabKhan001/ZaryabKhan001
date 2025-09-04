@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zaryab-zubair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaryab-zubair-b7960323a" height="30" width="40" /></a>
-<a href="https://x.com/Zaryab_005?t=l1ceHNJ96zrKnX2SjN4BTQ&s=08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="https://x.com/Zaryab_005?t=l1ceHNJ96zrKnX2SjN4BTQ&s=08" height="30" width="40" /></a>
+<a href="https://x.com/Zaryab_005?t=l1ceHNJ96zrKnX2SjN4BTQ&s=08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x-alt.svg" alt="https://x.com/Zaryab_005?t=l1ceHNJ96zrKnX2SjN4BTQ&s=08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
